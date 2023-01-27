@@ -1,0 +1,65 @@
+vi - Text editor for editing files
+cat - View the contents of a file
+less - View the contents of a file one page at a time
+tail - View the last few lines of a file
+head - View the first few lines of a file
+ps - View the processes running on the system
+kill - Send a signal to a process to terminate it
+top - View the processes using the most system resources
+free - View the amount of free and used memory on the system
+df - View the amount of free and used disk space
+du - View the size of a directory and its subdirectories
+passwd - changes passwords for user accounts
+useradd - To add user accounts to the system
+groupadd - To add user groups to the system
+gpasswd - To add users to the group
+whoami - To see the currently logged-in user
+usermod - To modify or change any attributes of a already created user account
+userdel - To delete the user
+ping - Test the reachability of a network host
+traceroute - View the route packets take to reach a network host
+netstat - View network connections and routing information
+ifconfig - View and configure network interfaces
+ip - to show or manipulate routing, devices, and tunnels & similar to 'ifconfig'
+tracepath - To traces path to destination network address
+telnet - To check the network connectivity for the system over a TCP/IP network
+route - View and configure the routing table
+iptables - Configure the Linux firewall
+ss - View network socket information
+nc - Network utility for reading and writing to network connections
+dig - Query DNS servers for information
+host - Query DNS servers for informatio
+nslookup - Query DNS servers for information
+wget - Download files from the internet
+curl - Transfer data with URL syntax
+rsync - Synchronize files and directories between systems
+scp - Securely copy files between systems
+ssh - Securely connect to a remote system
+sftp - Securely transfer files between systems
+ftp - Transfer files between systems
+mount - Mount a file system
+umount - Unmount a file system
+fdisk - Partition and format storage devices
+parted - Partition and format storage devices
+lsof - List open files
+man - To display the user manual of any command
+uptime - To find out how long the system is active(running)
+service - It is used starts, stop and restart a daemon or services by calling the script
+shutdown - To shutdown the system in a safe way
+apt-get - To install, remove, and perform other operations on installed software packages
+yum - To install, remove, and perform other operations on installed software packages
+zypper - To install, remove, and perform other operations on installed software packages
+pwd - To view the present working directory
+ls - Lists the files and directories in the current directory
+cd - Changes the current directory
+mkdir - Creates a new directory
+rmdir - Deletes a directory
+history - To view the previously executed command
+wc - To find out number of lines, word count, byte and characters count in the files
+touch - Creates a new file or updates the existing file
+rm - Deletes a file or directory
+cp - Copies a file or directorymv - Moves or renames a file or directory
+chmod - Changes the permissions of a file or directory
+chown - Changes the ownership of a file or directory
+find - Search for files in a directory hierarchy
+grep - Search for patterns in text
